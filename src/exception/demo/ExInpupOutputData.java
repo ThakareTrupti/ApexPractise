@@ -12,6 +12,9 @@ public class ExInpupOutputData {
 
              s=br.readLine();
 
+
+
+
         }
        
     }
